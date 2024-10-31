@@ -1,4 +1,4 @@
-﻿// Rocio Aurora Chena Duarte CI: 7.414.128
+﻿
 
 // Este programa de consola en C# permite al usuario ingresar un año 
 // y determina si es un año bisiesto o no. Utiliza componentes básicos de .NET 
