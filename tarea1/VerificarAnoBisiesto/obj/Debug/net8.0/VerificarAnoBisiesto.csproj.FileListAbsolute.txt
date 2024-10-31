@@ -1,0 +1,15 @@
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\bin\Debug\net8.0\VerificarAnoBisiesto.exe
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\bin\Debug\net8.0\VerificarAnoBisiesto.deps.json
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\bin\Debug\net8.0\VerificarAnoBisiesto.runtimeconfig.json
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\bin\Debug\net8.0\VerificarAnoBisiesto.dll
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\bin\Debug\net8.0\VerificarAnoBisiesto.pdb
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\obj\Debug\net8.0\VerificarAnoBisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\obj\Debug\net8.0\VerificarAnoBisiesto.AssemblyInfoInputs.cache
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\obj\Debug\net8.0\VerificarAnoBisiesto.AssemblyInfo.cs
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\obj\Debug\net8.0\VerificarAnoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\obj\Debug\net8.0\VerificarAnoBisiesto.sourcelink.json
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\obj\Debug\net8.0\VerificarAnoBisiesto.dll
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\obj\Debug\net8.0\refint\VerificarAnoBisiesto.dll
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\obj\Debug\net8.0\VerificarAnoBisiesto.pdb
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\obj\Debug\net8.0\VerificarAnoBisiesto.genruntimeconfig.cache
+C:\Users\Joven Adelante\Documents\tarea1\VerificarAnoBisiesto\obj\Debug\net8.0\ref\VerificarAnoBisiesto.dll
